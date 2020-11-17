@@ -14,3 +14,8 @@
 
 
 
+# 0.2
+    -three new feature are added in this version.
+    -Edit Profile-Customers now can change their personal infromation such as Name and contanct details
+    -Manage Employees -Employers can now manage their employees
+    -Customer Service - 24/7 contact details are provided for every customer of Legends payroll
